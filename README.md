@@ -53,6 +53,11 @@ Although the model achieved high training accuracy, validation and test accuracy
 
 ## How to Run
 
+## Notebook
+
+The complete project implementation, including code, outputs, visualizations, evaluation results, and conclusions, is available in the Jupyter notebook file included in this repository.
+
+
 The notebook can be opened and executed in Google Colab. Before running the notebook, enable GPU acceleration:
 
 ```text
